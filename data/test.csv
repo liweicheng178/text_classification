@@ -1,0 +1,8 @@
+Model,Accuracy ,Time Taken
+GBTClassifier,0.686816864,0:12:41
+MultilayerPerceptronClassifier,0.679455722,0:01:28
+LinearSVC,0.679232657,0:09:50
+LogisticRegression,0.677894267,0:00:42
+RandomForestClassifier,0.635958064,0:00:30
+NaiveBayes,0.627258532,0:00:05
+DecisionTreeClassifier,0.614320767,0:00:17
